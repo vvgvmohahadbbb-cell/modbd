@@ -1,0 +1,6 @@
+{
+  "appId": "com.ksjs.admin",
+  "appName": "لوحة سبح",
+  "webDir": "www",
+  "android": { "backgroundColor": "#0b1f1a" }
+}
